@@ -13,9 +13,10 @@ Quelle bestimme, us wellne me lerne wird:
 
 4. Eigene Glossar erstelle:
    alli Fachbegriff uf 20 Sitte Inhaltsverzeichnis vom Buech use schriebe.
-   Vom Udemy-Kurs Fachbegriff use schribe.
+   Vom Udemy-Kurs Fachbegriff use schribe und jede Begriff im Glossar mit eigene Sätz umschriebe und das uswändig lerne.
+   So het me e Vogelperschpektive und ka bi de Kürs richtig folge, wenn Begriff erwähnt wärde.
 
-5. Dr Spruch « Lab every day »:
+6. Dr Spruch « Lab every day »:
    Oft Packet Tracer nutze, um routinge zu erlange mit Cli.
    
    

@@ -1,8 +1,9 @@
 « »
 
-Lernvorschlag fürs Ccna 200-301
+Lernvorschlag für's Ccna 200-301
 
-Quelle bestimme, us wellne me lerne wird:
+
+Quelle organisiere, us wellne me lerne wird:
 
 1. Beidi Büecher: « Odom official Cert Guide "2.nd Edition" »
 

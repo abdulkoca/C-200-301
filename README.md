@@ -1,5 +1,3 @@
-« »
-
 Lernvorschlag für's Ccna 200-301
 
 
@@ -18,6 +16,6 @@ Quelle organisiere, us wellne me lerne wird:
    So het me e Vogelperschpektive und ka bi de Kürs richtig folge, wenn Begriff erwähnt wärde.
 
 6. Dr Spruch « Lab every day »:
-   Oft Packet Tracer nutze, um routinge zu erlange mit Cli.
+   Oft Packet Tracer nutze, um routine zu erlange mit Cli.
    
    

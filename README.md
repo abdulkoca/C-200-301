@@ -1,4 +1,4 @@
-Lernvorschlag für's Ccna 200-301
+Lernvorschlag für Ccna 200-301
 
 
 Quelle organisiere, us wellne me lerne wird:
